@@ -11,12 +11,12 @@ CoOP Boots
 CoOP Elytra
 
 ## Tools 
-CoOP Silk Touch Pickaxe (Netherite)
-CoOP Fortune Pickaxe (Netherite)
-CoOP Silk Touch Shovel (Netherite)
-CoOP Silk Touch Axe (Netherite)
-CoOP Hoe (Netherite)
-CoOP Ice Crusher (Diamond)
+- CoOP Silk Touch Pickaxe (Netherite)
+- CoOP Fortune Pickaxe (Netherite)
+- CoOP Silk Touch Shovel (Netherite)
+- CoOP Silk Touch Axe (Netherite)
+- CoOP Hoe (Netherite)
+- CoOP Ice Crusher (Diamond)
 
 ## Weapons
 CoOP Sharpness Sword (Netherite)
