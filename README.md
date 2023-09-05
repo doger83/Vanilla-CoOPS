@@ -1,26 +1,26 @@
 # Vanilla-CoOPS
 A custom Minecraft Texturepack for the Coorporation Members on Vanilla Europa.
 
-To use it for you basic Tools, Weapons and Armor you need to rename the items as follows:
+To use the texturepack you just have to rename your basic tools, weapons and armor as follows:
 
-## Armor (all Netherite!)
-CoOP Helmet
-CoOP Chestplate
-CoOP Leggings
-CoOP Boots
-CoOP Elytra
+## Armor
+- CoOP Helmet
+- CoOP Chestplate
+- CoOP Leggings
+- CoOP Boots
+- CoOP Elytra
 
 ## Tools 
-- CoOP Silk Touch Pickaxe (Netherite)
-- CoOP Fortune Pickaxe (Netherite)
-- CoOP Silk Touch Shovel (Netherite)
-- CoOP Silk Touch Axe (Netherite)
-- CoOP Hoe (Netherite)
-- CoOP Ice Crusher (Diamond)
+- CoOP Silk Touch Pickaxe
+- CoOP Fortune Pickaxe
+- CoOP Silk Touch Shovel
+- CoOP Silk Touch Axe
+- CoOP Hoe
+- CoOP Ice Crusher
 
 ## Weapons
-CoOP Sharpness Sword (Netherite)
-CoOP Smite Sword (Netherite)
-CoOP Bane of Arthropods Sword (Netherite)
-CoOP Nether Sword (Gold)
-CoOP Witherskeleton Sword (Iron... later version Stone!)
+- CoOP Sharpness Sword
+- CoOP Smite Sword
+- CoOP Bane of Arthropods Sword
+- CoOP Nether Sword
+- CoOP Witherskeleton Sword
